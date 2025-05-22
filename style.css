@@ -42,6 +42,7 @@ body{
     
 }
 h1{
+    color: var(--cl-heading);
     font-family: var(--ff-heading);
     margin: 0;
     font-size: 1.25rem;
@@ -68,7 +69,7 @@ img{
     height: 100vh;
 }
 .wrapper{
-    max-width: 19rem;
+    max-width: 20rem;
     background-color: var(--cl-wrapper-background);
     padding: 1rem;
     border-radius: 16px;
