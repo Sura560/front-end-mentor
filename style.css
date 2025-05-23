@@ -73,5 +73,5 @@ img{
     background-color: var(--cl-wrapper-background);
     padding: 1rem;
     border-radius: 16px;
-    box-shadow:  4.0px 8.0px 8.0px hsl(0deg 0% 0% / 0.2);
+    box-shadow:  4.0px 8.0px 5.0px hsl(0deg 0% 0% / 0.2);
 }
